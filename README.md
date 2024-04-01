@@ -7,6 +7,10 @@ Desarollar un chatbot capaz de responder preguntas relacionadas con los datos de
 # Prerequisitos
 Necesitaras un recurso de Azure OpenAI ya preconfigurado y accesible en una suscripción de Azure.  El equipo de Microsoft ya ha preconfigurado uno y solo necesitaras los API Keys y URLs que te serán provistos. Si quieres explorar como hacerlo en una suscripción personal que poseas, puedes referirte a este enlace: [Provision an Azure OpenAI resource](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-prompt-engineering.html#provision-an-azure-openai-resource).
 
+
+# Reunion de inicio
+[Bienvenidos al Desafío de Programación Microsoft _ Microsoft Teams 2024-04-01 16-07-32](https://1drv.ms/v/s!AuXkZfRCmUxIi5AsHIjLs9ivn_D5eg?e=tBHRgu)
+
 # Preparación del ambiente para desarrollo en .Net
 1. Descarga Visual Studio Code: [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 1. Installar extension **C# Dev Kit for Visual Studio Code** desde VSCode.
