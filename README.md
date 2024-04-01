@@ -90,7 +90,7 @@ Podrás descargar localmente los datos el Censo de Puerto Rico que se encuentran
 # GPT Prompting Cheat Sheet
 Utiliza la siguiente formula cuando escribas tus “prompts” para buscar obtener mejores respuestas.
 
-<img width="314" alt="image" src="https://github.com/juanma_microsoft/pr-tech-fair-external/assets/117229456/01b812b4-364a-46c7-a971-5398672344fb">
+<img width="314" alt="image" src="/images/317050342-01b812b4-364a-46c7-a971-5398672344fb.png">
 
 **Contexto**: Trasfondo o información relevante para el mensaje.
 **Tarea**: La función específica que ChatGPT tiene que ejecutar.
