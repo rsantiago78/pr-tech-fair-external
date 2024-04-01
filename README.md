@@ -9,8 +9,10 @@ Necesitaras un recurso de Azure OpenAI ya preconfigurado y accesible en una susc
 
 
 # Reunion de inicio
-[Bienvenidos al Desafío de Programación Microsoft _ Microsoft Teams 2024-04-01 16-07-32](https://1drv.ms/v/s!AuXkZfRCmUxIi5AsHIjLs9ivn_D5eg?e=tBHRgu)
+- [Bienvenidos al Desafío de Programación Microsoft _ Microsoft Teams 2024-04-01 16-07-32](https://1drv.ms/v/s!AuXkZfRCmUxIi5AsHIjLs9ivn_D5eg?e=tBHRgu)
 Nota: Desafortunadamente la grabación no tiene audio. La compartimos de todas maneras en caso de que quieran revisar el contenido de la misma.   
+
+- Presentación [AI Prompt Engineering](https://microsoft-my.sharepoint.com/:p:/p/juanma/Efvv1IoYPaFMsKMoJSoY5w4BOTd27bkR7A79b0xygg9ALw?e=JyiLBW&isSPOFile=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAyMjkyNDUxOCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
 
 # Preparación del ambiente para desarrollo en .Net
 1. Descarga Visual Studio Code: [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
