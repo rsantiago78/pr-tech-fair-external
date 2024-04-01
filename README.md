@@ -5,23 +5,29 @@ Repositorio para documentación, recursos y pasos a seguir para configurar el am
 Desarollar un chatbot capaz de responder preguntas relacionadas con los datos del Censo de Puerto Rico, utilizando los conjuntos de datos provistos en este repositorio. 
 
 # Prerequisitos
-
 Necesitaras un recurso de Azure OpenAI ya preconfigurado y accesible en una suscripción de Azure.  El equipo de Microsoft ya ha preconfigurado uno y solo necesitaras los API Keys y URLs que te serán provistos. Si quieres explorar como hacerlo en una suscripción personal que poseas, puedes referirte a este enlace: [Provision an Azure OpenAI resource](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-prompt-engineering.html#provision-an-azure-openai-resource).
 
 # Preparación del ambiente para desarrollo en .Net
-
 1. Descarga Visual Studio Code: [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 1. Installar extension **C# Dev Kit for Visual Studio Code** desde VSCode.
 1. Installar el [.Net SDK](https://dotnet.microsoft.com/en-us/download)
 
 # Preparación del projecto para uso librerias de Azure.AI.OpenAI 
-1. Crear nueva carpera para el proyecto.
+1. Crear nueva carpeta para el proyecto.
 1. Abrir carpeta para el proyecto en VSCode.
-1. Inicializar el tipo de proyecto ejecutando (utilizar el tipo de proyecto que prefieras)
+1. Podrás utilizar la plantilla de projecto Web que prefieras. Para ver listado de plantillas disponibles puedes ejecutar:
+```
+dotnet new list
+```
+
+4. Inicializar el tipo de proyecto ejecutando 
 ``` 
 dotnet new <project_type>
 ```
-4. Anadir archivo llamado **NuGet.config** con el siguiente contenido
+
+
+
+5. Anadir archivo llamado **NuGet.config** con el siguiente contenido
 ```
 <configuration>
   <packageSources>
@@ -30,7 +36,7 @@ dotnet new <project_type>
   </packageSources>
 </configuration>
 ```
-5. Instalar el nuget package de [Azure OpenAI](https://www.nuget.org/packages/Azure.AI.OpenAI) ejecutando 
+6. Instalar el nuget package de [Azure OpenAI](https://www.nuget.org/packages/Azure.AI.OpenAI) ejecutando 
 ```
 dotnet add package Azure.AI.OpenAI --prerelease
 ```
